@@ -1,4 +1,4 @@
-Ilves Seed Project
+Ilves WAR Seed Project
 ==================
 
 Ilves simplifies Java web site creation. This is seed project to simplify new war project setup.
