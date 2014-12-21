@@ -1,7 +1,7 @@
 Ilves Seed Project
 ==================
 
-Ilves simplifies Java web site creation. This is seed project to simplify new project setup.
+Ilves simplifies Java web site creation. This is seed project to simplify new war project setup.
 
 Preconditions
 ------------
@@ -42,4 +42,4 @@ Executing
 
 Execute from command line with the following command:
 
-ilves
+mvn jetty:run
