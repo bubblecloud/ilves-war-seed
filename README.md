@@ -14,16 +14,16 @@ Features
 --------
 
 1. Example of navigation, page, localization and theme icon customization.
-2. Procfile for running the project in Heroku.
-3. Build file to generate executable jar.
-4. Configuration examples for HSQL (default), PostgreSQL and MySQL.
+2. Database configuration examples for HSQL (default) and PostgreSQL.
+3. Example page commenting implementation.
+4. Example maven jetty setup for development.
 
 Clone
 -----
 
 Clone projec to your local workstation from command line with the following command:
 
-git clone https://github.com/bubblecloud/ilves-seed.git
+git clone https://github.com/bubblecloud/ilves-war-seed.git
 
 Integrated Development Environments
 -----------------------------------
