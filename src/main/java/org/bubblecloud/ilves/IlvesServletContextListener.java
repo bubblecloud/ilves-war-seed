@@ -59,7 +59,7 @@ public class IlvesServletContextListener implements ServletContextListener {
     @Override
     public void contextInitialized(ServletContextEvent servletContextEvent) {
         // Configure logging.
-        DOMConfigurator.configure("log4j.xml");
+        //DOMConfigurator.configure("log4j.xml");
 
         final long startTimeMillis = System.currentTimeMillis();
         LOGGER.info("Ilves servlet context initializing.");
